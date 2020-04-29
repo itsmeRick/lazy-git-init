@@ -2,7 +2,7 @@
 One script to make a project directory and all related git initializations
 
 
-I only wrote this to work on my laptop running Arch Linux... <3
+I only wrote this to work on my laptop running Arch Linux, so haven't tested on other systems...
 
 Need to create a .env file as this script uses python-dotenv to load your github credentials and project paths
 
@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
 .env File Format
 ------------------
 ```
-USERNAME="your-username"
-PASSWORD="your-password"
-FILEPATH="/your/project/path"
+user="your-username"
+pass="your-password"
+path="/your/project/path"
 ```
