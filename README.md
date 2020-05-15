@@ -21,3 +21,12 @@ user="your-username"
 pass="your-password"
 path="/your/project/path"
 ```
+Starting Project
+------------------
+```
+$ ./init.sh project_name
+```
+For example:
+```
+$ ./init.sh helloworld
+```
