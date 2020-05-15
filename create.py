@@ -1,6 +1,5 @@
 import os
 import sys
-from selenium import webdriver
 from github import Github
 from dotenv import load_dotenv
 
