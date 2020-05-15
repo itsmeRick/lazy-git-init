@@ -10,7 +10,8 @@ Installation
 ------------------
 ```
 $ git clone "https://github.com/itsmeRick/lazy-git-init.git"
-$ pip install -r requirements.txt
+$ pip install PyGithub
+$ pip install python-dotenv
 ```
 
 .env File Format
